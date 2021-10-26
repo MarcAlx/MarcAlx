@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm MarcAlx
 
-<!--
-**MarcAlx/MarcAlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use this github account to share some of my spare time projects.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on .NET (Xamarin/WPF/.NetCore) / Swift / Android / Web projects.
+- 🌱 I like to understand how things works and to find simple solutions to complex problems.
+- 👯 I’m looking to collaborate on mobile / game dev / C# library projects
+- 🏢 I'm working at [Smart/Origin](https://smart-origin.com/) [:octocat:](https://github.com/smartorigin)
+- 🌍 I speak :fr: :uk: :es:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check also my [Stack/Overflow account](https://stackoverflow.com/users/5102373/marc-alx) and my [Gist account](https://gist.github.com/MarcAlx).
+
+Do not hesitate to reach me 😉
