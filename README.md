@@ -2,7 +2,7 @@
 
 I use this github account to share some of my spare time projects.
 
-- 🔭 I’m currently working on .NET (Xamarin/WPF/.NetCore) / Swift / Android / Web projects (react/Angular).
+- 🔭 I’m currently working on .NET (MAUI/Xamarin/WPF/.NetCore) / Swift / Android / Web projects (react/Angular).
 - 🌱 I like to understand how things works and to find simple solutions to complex problems.
 - 👯 I’m looking to collaborate on mobile / game dev / C# library and apps / Swift library and apps 
 - 🏢 I'm working at [Smart/Origin](https://smart-origin.com/) [:octocat:](https://github.com/smartorigin)
